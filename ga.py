@@ -1,4 +1,4 @@
-# genetik_algoritma.py
+# ga.py
 from geopy.distance import geodesic
 import random
 import copy
