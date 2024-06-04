@@ -1,4 +1,4 @@
-#### Giriş
+## Giriş
 
 Bu ödev boyunca, bir şehir içerisinde bulunan N (20) adet konumun gezilebilmesi için en düşük maliyetli mesafeyi bulma işlemi yapılmıştır diğer bir adıyla Gezgin Satıcı Probleminin Genetik Algoritma ile çözümlenmesi yapılmıştır.
 
