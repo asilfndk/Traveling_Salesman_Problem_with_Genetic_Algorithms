@@ -38,7 +38,7 @@ Genetik Algoritma kullanmanın bize sağladığı avantajlar ise:
 8. Lokal optimuma düşme konusunda dirençlidir.
 9. Büyük boyutlu problemlere uygulanabilir.
 
-## Genetik Algoritma Nedir?
+    
 
 Kolay GA yapısı evrimsel programlama yapısına eştir. t iterasyonu süresince potansiyel çözümlerin popülasyonunu sürdürmektedir. Çözüm uygunluk değerine göre değerlendirilir.Yeni popülasyon t+1 iterasyonda daha uygun fertlerin tercihi ile oluşmaktadır. Bu yeni popülasyondaki fertler çaprazlama ve değişinim ile başkalaşıma uğrar yeni çözümler oluşmaktadır
 
